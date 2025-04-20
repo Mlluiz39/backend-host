@@ -1,0 +1,26 @@
+# dependencies
+node_modules/
+
+# SQLite database
+*.sqlite
+*.db
+
+# logs
+logs/
+*.log
+
+# uploads/descompactados/deploys
+sites/
+nginx-config/
+
+# env
+.env
+
+# misc
+.DS_Store
+
+# IDEs
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
